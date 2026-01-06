@@ -13,5 +13,15 @@
     "alOutline.completionProviders": [
         "VariableNamesWithType",
         "VariableDataTypes"
-    ]
+    ],
+    "github.copilot.enable": {
+        "*": true,
+        "al": true
+    },
+    "editor.inlineSuggest.enabled": true,
+    "editor.quickSuggestions": {
+        "other": "on",
+        "comments": "on",
+        "strings": "on"
+    }
 }
